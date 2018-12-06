@@ -1,0 +1,16 @@
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\Controllers.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\Controllers.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\BusinessEntities.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\BusinessLayer.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\DataAccessLayer.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\Common.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\BusinessEntities.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\BusinessLayer.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\BusinessLayer.dll.config
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\DataAccessLayer.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\bin\Debug\Common.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\obj\Debug\Controllers.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\Controllers\obj\Debug\Controllers.pdb

@@ -1,0 +1,10 @@
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\bin\Debug\Common.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\bin\Debug\Common.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

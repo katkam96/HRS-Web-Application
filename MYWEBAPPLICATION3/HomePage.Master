@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomePage.master.cs" Inherits="MYWEBAPPLICATION3.HomePage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<center>
+    <form id="form1" runat="server">
+    <div>
+        <table>
+            <tr>
+                <td colspan="5">
+                    <asp:Image ID="ImgBanner"  ImageUrl="~/Images/KatkamITServices.jpg" Height="93px" Width="793px"  runat="server" />
+                </td>
+               
+            </tr>
+            <tr>
+                 <td>
+                    <asp:ImageButton ID="ImgEmployee" ImageUrl="~/Images/UnSelectedEmployee.JPG" 
+                         runat="server" onclick="ImgEmployee_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImgProject" ImageUrl="~/Images/UnSelectedProject.JPG" 
+                        runat="server" onclick="ImgProject_Click" />
+                </td>
+                 <td>
+                    <asp:ImageButton ID="ImgCategory" ImageUrl="~/Images/UnSelectedCategory.JPG" 
+                         runat="server" onclick="ImgCategory_Click" />
+                </td>
+                <td>
+                    <asp:ImageButton ID="ImgSkill"  ImageUrl="~/Images/UnSelectedSkill.JPG" 
+                        runat="server" onclick="ImgSkill_Click" />
+                </td>
+            </tr>
+            <tr>
+            <td align="right">
+            <asp:Label ID="lblMessage" runat="server"></asp:Label>
+            </td>
+            </tr>
+         </table>
+        <asp:ContentPlaceHolder ID="HomePageCPH" runat="server">
+        
+            
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+   </center>
+    
+</body>
+</html>
+

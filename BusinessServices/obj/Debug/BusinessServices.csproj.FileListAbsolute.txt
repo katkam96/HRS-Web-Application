@@ -1,0 +1,14 @@
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\BusinessServices.dll.config
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\BusinessServices.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\BusinessServices.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\DataAccessLayer.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\BusinessEntities.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\Common.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\DataAccessLayer.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\BusinessEntities.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\bin\Common.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\obj\Debug\BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\obj\Debug\BusinessServices.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessServices\obj\Debug\BusinessServices.pdb

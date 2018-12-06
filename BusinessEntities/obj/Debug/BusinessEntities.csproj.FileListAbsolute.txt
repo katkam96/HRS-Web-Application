@@ -1,0 +1,6 @@
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\saiad\source\repos\MYWEBAPPLICATION3\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
