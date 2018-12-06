@@ -149,7 +149,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Images\KatkamITServices.jpg" />
+    <Content Include="Images\KatkamITServicesLogo.jpg" />
     <Content Include="Images\vssver2.scc" />
     <Content Include="JavaScripts\vssver2.scc" />
     <Content Include="HomePage.Master" />
