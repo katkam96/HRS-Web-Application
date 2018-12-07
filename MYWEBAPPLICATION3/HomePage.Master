@@ -15,7 +15,7 @@
         <table>
             <tr>
                 <td colspan="5">
-                    <asp:Image ID="ImgBanner"  ImageUrl="~/Images/KatkamITServicesLogo.jpg" Height="93px" Width="793px"  runat="server" />
+                    <asp:Image ID="ImgBanner"   ImageUrl="~/Images/KatkamITServicesLogo.jpg" Height="93px" Width="793px"  runat="server" />
                 </td>
                
             </tr>
